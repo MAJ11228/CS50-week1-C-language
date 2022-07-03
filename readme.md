@@ -1,5 +1,8 @@
-Repo dedicado ao meu projeto da Semana 1 - C, do curso CS50 de Introdução a Ciência da Computação, da Universidade de Harvard.
+# CS50-week0-Scratch
+Repository following my projects within the 2022's CS50x course at Harvard University - week 0 - Scratch
 
-A week1 (segunda aula) é sobre a linguagem C, e teve como desafios a criação de três códigos diferentes. O primeiro deles é um simples 'hello, person' que recebe o input da pessoa e responde com o nome.
-O segundo código, intitulado Mario, é um código para a criação de figuras semelhantes às encontradas no jogo do Super Mario World, sendo que o input do usuário determina a altura das figuras.
-O terceiro código envolve o cálculo do troco ideal em moedas, afim de otimizar o número de moedas entregues como troco, considerando moedas de 1, 5 e 25 centavos americanos (mais conhecidas como pennies, nickels, dimmes e quarters).
+Repo dedicado ao meu projeto da Semana 1 - C, do curso CS50 de IntroduÃ§Ã£o a CiÃªncia da ComputaÃ§Ã£o, da Universidade de Harvard.
+
+A week1 (segunda aula) Ã© sobre a linguagem C, e teve como desafios a criaÃ§Ã£o de trÃªs cÃ³digos diferentes. O primeiro deles Ã© um simples 'hello, person' que recebe o input da pessoa e responde com o nome.
+O segundo cÃ³digo, intitulado Mario, Ã© um cÃ³digo para a criaÃ§Ã£o de figuras semelhantes Ã s encontradas no jogo do Super Mario World, sendo que o input do usuÃ¡rio determina a altura das figuras.
+O terceiro cÃ³digo envolve o cÃ¡lculo do troco ideal em moedas, afim de otimizar o nÃºmero de moedas entregues como troco, considerando moedas de 1, 5 e 25 centavos americanos (mais conhecidas como pennies, nickels, dimmes e quarters).
